@@ -8,9 +8,9 @@ Please Restore the Nuget Packages before building the Project {if haven't}.
 
 Here Are the Endpoints and Request Body Format for calling this API.
 
-**List Movie **:        /api/Movie/ListMovies
-**Get Movie **:         /api/Movie/GetMovie/{id} -- Replace the ID 
-**Add Movie ** :         /api/Movie/AddMovie 
+**List Movie**:        /api/Movie/ListMovies
+**Get Movie**:         /api/Movie/GetMovie/{id} -- Replace the ID 
+**Add Movie** :         /api/Movie/AddMovie 
 
 **Movie Input Format** : 
 {
